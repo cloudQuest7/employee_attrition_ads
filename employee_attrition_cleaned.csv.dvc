@@ -1,0 +1,5 @@
+outs:
+- md5: 1f9c10c1b47b9911ca655410b99436a2
+  size: 3897836
+  hash: md5
+  path: employee_attrition_cleaned.csv
